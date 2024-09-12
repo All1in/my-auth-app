@@ -1,4 +1,7 @@
 @import "./common/variables";
+@import "./common/reset";
+
+@import "./mixins";
 
 body {
   font-family: "Ubuntu", sans-serif;
