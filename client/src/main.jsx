@@ -5,7 +5,7 @@ import { Provider } from 'react-redux';
 
 import { rootStore } from './app/rootStore.js';
 
-import App from "./app/App.jsx";
+import { App } from "./app/App.jsx";
 
 import './styles/index.scss';
 
